@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>codingame</groupId>
-    <artifactId>codingame-starter</artifactId>
+    <artifactId>fantasticbits-contests</artifactId>
     <version>1.0-SNAPSHOT</version>
     <build>
         <plugins>
